@@ -1,0 +1,5 @@
+{
+  "name": "@quackware/graph",
+  "description": "Graph functionality utilizing the Graphology library",
+  "version": "0.0.1"
+}
