@@ -1,7 +1,3 @@
-<h1 align="center">
-  <a href="https://github.com/quackware/graph">
-    <code>@quackware/graph</code>
-  </a>
-</h1>
+# @quackware/graph
 
-<p align="center">Graph functionality utilizing the Graphology library</p>
+Graph functionality utilizing the Graphology library
